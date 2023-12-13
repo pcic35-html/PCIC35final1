@@ -1,0 +1,21 @@
+{
+	"samplecode":"print(\"#ACACAC\")",
+	"title":"pA自己上網查答案",
+	"content":"<p><a href=\"https://hackmd.io/&#64;ET01/PCICfinal-pC\" rel=\"nofollow\">題目HackMD檔here</a></p> <p>鮪魚跟鯽魚又為了番茄是蔬菜還是水果吵架，鮪魚實在是太生氣了，他點了一碗貢丸湯，貢丸湯的貢丸實在是太好吃了，鮪魚決定要變成貢丸，變成貢丸的鮪魚想起，之前和鮭魚為了社服的顏色討論了很久，現在，他找到最適合社員的顏色了。</p>",
+	"display":"hide",
+	"testfilelength":1,
+	"timelimits":[1.0],
+	"memorylimit":512,
+	"theinput":"<p>沒有輸入。</p>",
+	"theoutput":"<p>滷滷味外星人留下的訊息。變成貢丸的鮪魚認為最適合社員的顏色。<br>請以顏色的十六進位編碼輸出，如要輸出英文字母，請一律以大寫輸出。<br>（E.g. 如要輸出白色請輸出：#FFFFFF）</p>",
+	"sampleinput":" ",
+	"sampleoutput":" ",
+	"hint":"<p><a href=\"https://hackmd.io/&#64;ET01/PCICfinal-pC\" rel=\"nofollow\">提示HackMD檔here</a></p>",
+	"scores":[100],
+	"judgemode":"Tolerant",
+	"testinfiles":[""],
+	"testoutfiles":["#ACACAC\n"],
+	"errmsg_visible":0,
+	"locale":"zh_TW",
+	"language":"PYTHON"
+}

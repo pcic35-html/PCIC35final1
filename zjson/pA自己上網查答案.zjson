@@ -1,0 +1,21 @@
+{
+	"samplecode":"print(\"Crypto\")",
+	"title":"pA自己上網查答案",
+	"content":"<p><a href=\"https://hackmd.io/&#64;ET01/PCICfinal-pA\" rel=\"nofollow\">題目HackMD檔here</a></p><p>有一天石頭給ET02出了很難的題目&#xff0c;他決定上網查答案&#xff0c;ET02打開電腦&#xff0c;開始在網上搜索資料。他花了許多時間閱讀各種文章&#xff0c;觀看教學影片&#xff0c;但仍然找不到確切的答案。他感到沮喪&#xff0c;於是善良的你決定幫助他。</p>",
+	"display":"hide",
+	"testfilelength":1,
+	"timelimits":[1.0],
+	"memorylimit":512,
+	"theinput":"<p>沒有輸入。</p>",
+	"theoutput":"<p>一個長度為6的字串S&#xff0c;第一個字大寫&#xff0c;後面五個字小寫。</p>",
+	"sampleinput":" ",
+	"sampleoutput":" ",
+	"hint":"<p><a href=\"https://hackmd.io/&#64;ET01/PCICfinal-pA\" rel=\"nofollow\">提示HackMD檔here</a></p>",
+	"scores":[100],
+	"judgemode":"Tolerant",
+	"testinfiles":[""],
+	"testoutfiles":["Crypto\n"],
+	"errmsg_visible":0,
+	"locale":"zh_TW",
+	"language":"PYTHON"
+}
