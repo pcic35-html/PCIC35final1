@@ -1,0 +1,26 @@
+{
+	"samplecode": "print(\"Crypto\")",
+	"title": "pA自己上網查答案",
+	"content": "<p><a href=\"https://hackmd.io/@ET01/PCICfinal-pA\">題目HackMD檔here</a></p>",
+	"display": "hide",
+	"testfilelength": 1,
+	"timelimits": [
+		1.0
+	],
+	"memorylimit": 512,
+	"sampleinput": "",
+	"sampleoutput": "",
+	"scores": [
+		100
+	],
+	"judgemode": "Tolerant",
+	"testinfiles": [
+		""
+	],
+	"testoutfiles": [
+		"Crypto\n"
+	],
+	"errmsg_visible": 0,
+	"locale": "zh_TW",
+	"language": "PYTHON"
+}
