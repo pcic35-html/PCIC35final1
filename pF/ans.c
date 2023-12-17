@@ -10,16 +10,16 @@ int main(){
 		int l=0;
 		int e=0;
 		for(int i=0;i<100000;i++){
-			if(c[i]=='A'){
+			if(c[i]=='A' || c[i]=='a'){
 				a++;
 			}
-			if(c[i]=='P'){
+			if(c[i]=='P' || c[i]=='p'){
 				p++;
 			}
-			if(c[i]=='L'){
+			if(c[i]=='L' || c[i]=='l'){
 				l++;
 			}
-			if(c[i]=='E'){
+			if(c[i]=='E' || c[i]=='e'){
 				e++;
 			}
 			if(c[i]=='\0'){
